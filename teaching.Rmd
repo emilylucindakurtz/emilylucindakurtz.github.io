@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+---
+
+### University of Minnesota (as Instructor)
+
+POL 3085: Quantitative Analysis in Political Science, Summer 2023, <a href="POL3085Summer2023.pdf" class="download" title="Download syllabus as PDF">Syllabus</a>.
+
+**University of Minnesota (as Lab Instructor)**
+
+POL 3085: Quantitative Analysis in Political Science, Spring 2024.
+
+STAT 3032: Regression and Correlated Data, Spring 2020.
+
+STAT 5032: Applied Regression Analysis, Fall 2019.
+
+STAT 4101/5101: Theory of Statistics I, Summer 2019.
+
+STAT 3701: Introduction to Statistical Computing, Fall 2018.
+
+STAT 3021: Introduction to Probability and Statistics, Spring 2018. 
+
+STAT 3011: Introduction to Statistical Analysis, Fall 2017.
+
+**University of Minnesota (as Teaching Assistant)**
+
+POL 3321: Issues in American Public Policy, Spring 2022.
+
+POL 1001: American Democracy in a Changing World, Fall 2021.
+
+**GRAD 8101: Teaching in Higher Education (as Student)**
+
