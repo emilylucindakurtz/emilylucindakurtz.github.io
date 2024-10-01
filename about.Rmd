@@ -2,6 +2,10 @@
 title: "Research"
 ---
 
+
+background: url(C:\Users\E\Documents\GitHub\emilylucindakurtz.github.io\IronMan2.jpg)
+
+
 <p align="center">
   <img src="Manufacturing Job Clusters.png"></p>
   
