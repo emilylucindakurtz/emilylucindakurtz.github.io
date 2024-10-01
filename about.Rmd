@@ -3,7 +3,6 @@ title: "Research"
 ---
 
 
-background: url(C:\Users\E\Documents\GitHub\emilylucindakurtz.github.io\IronMan2.jpg)
 
 
 <p align="center">
@@ -22,8 +21,8 @@ Godbole, A., Kelley, E., Kurtz, E., Prałat, P., & Zhang, Y. (2017). The total a
 
 ## Selected Working Papers
 
-Race, ethnicity, and moral values: On the measure and mismeasure of moral values in the American public. Co-authored with Goren, P. & Barrett, C. (Under review at the British Journal of Political Science)
+Race, Ethnicity, and Moral Values: On the Measure and Mismeasure of Moral Values in the American Public. Co-authored with Goren, P. & Barrett, C. (Undergoing edits)
 
-Measuring county-level deindustrialization in the United States. (Under review at the British Journal of Political Science) [Preprint](https://osf.io/preprints/osf/937vb)
+It's Time for More Time Series Clustering in Political Science. (Under review at Political Analysis)
 
-When do we give companies a pass to destroy the environment? Co-authored with Sumner, J. L.
+When do We Give Companies a Pass to Destroy the Environment? Co-authored with Sumner, J. L.
