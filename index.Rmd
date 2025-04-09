@@ -17,7 +17,9 @@ knitr::include_graphics("kurtzpicture.jpeg")
 
 <div class=text-justify>
 
-Welcome to my website! I am a [PhD candidate in Political Science](https://cla.umn.edu/about/directory/profile/kurtz217) at the University of Minnesota. I am also an alumna of the [Population Studies training program](https://pop.umn.edu/people/emily-kurtz) with UMN's Minnesota Population Center. My research interests are in American political economy, political geography, public opinion, and political methodology. I am interested in how industry death over generations influences political behavior even today. Specifically, I want to answer why folks living in some parts of the country resist retraining in new types of jobs, such as those in green energy, even though they have the training and credentials to perform those types of jobs and their local economy could use such an economic boost.
+Welcome to my website! I am a [PhD candidate in Political Science](https://cla.umn.edu/about/directory/profile/kurtz217) at the University of Minnesota. I am also an alumna of the [Population Studies training program](https://pop.umn.edu/people/emily-kurtz) with UMN's Minnesota Population Center. Next year, I will be joining the [Mathematics and Statistics Department](https://www.carleton.edu/math/) at Carleton College as a Visiting Assistant Professor of Statistics.
+
+My research interests are in American political economy, political geography, public opinion, and political methodology. I am interested in how industry death over generations influences political behavior even today. Specifically, I want to answer why folks living in some parts of the country resist retraining in new types of jobs, such as those in green energy, even though they have the training and credentials to perform those types of jobs and their local economy could use such an economic boost.
 
 
 
