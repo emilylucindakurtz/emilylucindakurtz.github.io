@@ -6,7 +6,7 @@ title: "Research"
 
 
 <p align="center">
-  <img src="Manufacturing Job Clusters.png"></p>
+  <img src="combinedsectors.png"></p>
   
 <p align="center">A cool figure from a recent project I have been working on.</p>\
 
@@ -19,16 +19,21 @@ Straw, C. M., Principe, F. M., Kurtz, E. L., Wiese-Bjornstal, D. M., & Horgan, B
 
 Godbole, A., Kelley, E., Kurtz, E., Prałat, P., & Zhang, Y. (2017). The total acquisition number of the randomly weighted path. Discussiones Mathematicae Graph Theory, 37(4), 919-934.
 
+## Papers Under Review
+
+Not in My Labor Market?: Environmental Regulation, Psychological Proximity, and Fear of Job Losses. Co-authored with Sumner, J. L. (at Social Sciences Quarterly)
+Race, Ethnicity, and Moral Values: On the Measure and Mismeasure of Moral Values in the American Public. Co-authored with Goren, P. & Barrett, C. (at Political Behavior)
+Not If But When: Does Survey Launch Time Affect Characteristics of Samples Obtained From Online Platforms? Co-authored with Sumner, J. L. (at Political Analysis)
+
 ## Selected Working Papers
 
-Race, Ethnicity, and Moral Values: On the Measure and Mismeasure of Moral Values in the American Public. Co-authored with Goren, P. & Barrett, C. (Under review at Political Behavior)
-
-It's Time for More Time Series Clustering in Political Science. (Under review at Political Analysis)
-
-When do We Give Companies a Pass to Destroy the Environment? Co-authored with Sumner, J. L.
+It's Time for More Time Series Clustering in Political Science
+Measuring County-Level Deindustrialization in the United States
+The partyvoter Package: Simulating and Visualizing Ideological and Partisan Voting
 
 ## Works in Progress
 
+Nested Economies: Understanding Americans' Perceptions of their Local Economies through County and MSA Job Trends
 The Racial Geography of Protectionist Sentiment. With Sumner, J. L.
-
 Man Hands on Misery to Man: Family History, Opposition to Globalization, and Enduring Legacies of Deindustrialization. With Sumner, J. L.
+The Words of Work: Partisan Differences in How Congress Talks About Jobs

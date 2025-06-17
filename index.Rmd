@@ -17,14 +17,14 @@ knitr::include_graphics("kurtzpicture.jpeg")
 
 <div class=text-justify>
 
-Welcome to my website! I am a [PhD candidate in Political Science](https://cla.umn.edu/about/directory/profile/kurtz217) at the University of Minnesota. I am also an alumna of the [Population Studies training program](https://pop.umn.edu/people/emily-kurtz) with UMN's Minnesota Population Center. Next year, I will be joining the [Mathematics and Statistics Department](https://www.carleton.edu/math/) at Carleton College as a Visiting Assistant Professor of Statistics.
+Welcome to my website! I am a [PhD candidate in Political Science](https://cla.umn.edu/about/directory/profile/kurtz217) at the University of Minnesota. I am also an alumna of the [Population Studies training program](https://pop.umn.edu/people/emily-kurtz) with UMN's Minnesota Population Center. This fall, I will be joining the [Mathematics and Statistics Department](https://www.carleton.edu/math/) at Carleton College as a Visiting Assistant Professor of Statistics.
 
 My research interests are in American political economy, political geography, public opinion, and political methodology. I am interested in how industry death over generations influences political behavior even today. Specifically, I want to answer why folks living in some parts of the country resist retraining in new types of jobs, such as those in green energy, even though they have the training and credentials to perform those types of jobs and their local economy could use such an economic boost.
-
-
 
 I am involved in student leadership and service here at UMN. I have been a member of the [Council of Graduate Students](https://www.cogsmn.org/judiciary-committee) for three years, was on the University Senate for two, and organized my department's American Politics Colloquium for three years. I also co-organized the [Political Methodology Colloquium](https://sites.google.com/umn.edu/mpmc/home?authuser=0) last year.
 
 Before joining my current department, I was a graduate student in the School of Statistics (2017-2020), a Technical Services Analyst at Epic Systems (2015-2017), and an undergrad in Math and Environmental Studies at Wellesley College (2011-2015). I grew up in Northeast Ohio.
 
-In my spare time, I like to travel. I've been to 49 states, but perhaps my favorite recent trip is when I walked barefoot through the Mississippi River, all of the way across it. I did this in Itasca State Park, and it was perhaps the coolest 25 steps I have ever taken. I also like to play strategy games, watch Cleveland sports (Minnesota sports are also acceptable), go on walks around my local lake, and eat good food. I am a fan of fall, gardening, and ebikes.
+In my spare time, I like to travel. I've been to 49 states, but perhaps my favorite recent trip is when I walked barefoot through the Mississippi River, all of the way across it. I did this in Itasca State Park, and it was perhaps the coolest 25 steps I have ever taken. I also like to play strategy games, watch Cleveland sports (Minnesota sports are also acceptable), go on walks around my local lake, and eat good food. I am a fan of fall, gardening, and e-bikes.
+
+
