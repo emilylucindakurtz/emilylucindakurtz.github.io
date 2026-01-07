@@ -4,6 +4,8 @@ title: "Teaching"
 
 ### Instructor of Record
 
+STAT 120: Introduction to Statistics, Fall 2025
+
 POL 3085: Quantitative Analysis in Political Science, Summer 2023, <a href="POL3085Summer2023.pdf" class="download" title="Download syllabus as PDF">Syllabus</a>.
 
 ### Lab Instructor
