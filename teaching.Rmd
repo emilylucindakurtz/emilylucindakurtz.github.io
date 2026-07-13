@@ -4,11 +4,19 @@ title: "Teaching"
 
 ### Instructor of Record
 
-STAT 120: Introduction to Statistics, Fall 2025
+#### Carleton College
+
+STAT 270: Statistical Learning, Winter 2027.
+
+STAT 220: Introduction to Data Science, Spring 2026, Winter 2027, Spring 2027, [Course Information](https://stat220kurtz.github.io/)
+
+STAT 120: Introduction to Statistics, Fall 2025, Winter 2025, Spring 2026, Spring 2027, <a href="STAT120Spring26.pdf" class="download" title="Download syllabus as PDF">Syllabus</a>.
+
+#### University of Minnesota (UMN)
 
 POL 3085: Quantitative Analysis in Political Science, Summer 2023, <a href="POL3085Summer2023.pdf" class="download" title="Download syllabus as PDF">Syllabus</a>.
 
-### Lab Instructor
+### Lab Instructor (UMN)
 
 POL 3085: Quantitative Analysis in Political Science, Spring 2024.
 
@@ -24,7 +32,7 @@ STAT 3021: Introduction to Probability and Statistics, Spring 2018.
 
 STAT 3011: Introduction to Statistical Analysis, Fall 2017.
 
-### Teaching Assistant
+### Teaching Assistant (UMN)
 
 POL 3321: Issues in American Public Policy, Spring 2022.
 
