@@ -3,18 +3,6 @@ title: "Research"
 ---
 
 
-
-
-<p align="center">
-  <img src="combinedsectors.png"></p>
-  
-<p align="center">A cool figure from a recent project I have been working on.</p>\
-
-## Research with Undergraduate Students
-
-During my graduate career, I worked with several undergraduates on two summer projects as part of the Data Science for the Public Good program at UVA's Biocomplexity Institute. As a Visiting Assistant Professor at Carleton, I worked with four students during Summer 2026 on a project studying American cultural and industrial institutions. You can explore the work we did for that project [here]((https://sites.google.com/umn.edu/mpmc/home?authuser=0).
-
-
 ## Publications
 
 Straw, C. M., Principe, F. M., Kurtz, E. L., Wiese-Bjornstal, D. M., & Horgan, B. P. (2020). Within-field variability of turfgrass surface properties and athlete performance: Modeling their relationship using GPS and GIS technologies. Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology, 234(2), 170-175.
@@ -23,26 +11,40 @@ Godbole, A., Kelley, E., Kurtz, E., Prałat, P., & Zhang, Y. (2017). The total a
 
 ## Papers Under Review
 
-It's Time for More Time Series Clustering in Political Science Measuring County-Level Deindustrialization in the United States. (Reject and resubmit at Political Analysis)
+“Could You Let Me Check Your Work?" Assessing the Accessibility of Replication Materials. Coauthored with McWay, R. (at Political Analysis)
 
-Not in My Labor Market?: Environmental Regulation, Psychological Proximity, and Fear of Job Losses. Co-authored with Sumner, J. L. (at Social Sciences Quarterly)
+The Statistical Significance of Statistical Insignificance. A Reproduction Study of ‘The Null Result
+Penalty.’ Co-authored with McWay, R. (at Journal of Applied Econometrics)
 
-Race, Ethnicity, and Moral Values: On the Measure and Mismeasure of Moral Values in the American Public. Co-authored with Goren, P. & Barrett, C. (at Political Behavior)
+Race, Ethnicity, and Moral Values: On the Measure and Mismeasure of Moral Values in the American
+Public. Co-authored with Goren, P. & Barrett, C. (at Political Behavior)
 
-Not If But When: Does Survey Launch Time Affect Characteristics of Samples Obtained From Online Platforms? Co-authored with Sumner, J. L. (Reject and resubmit at Political Analysis)
+Measuring County-Level Deindustrialization in the United States. (at Political Science Research and
+Methods.)
+
+Not If But When: Does Survey Launch Time Affect Characteristics of Samples Obtained From Online Platforms? Co-authored with Sumner, J. L. (at Political Analysis)
 
 ## Selected Working Papers
 
-The partyvoter Package: Simulating and Visualizing Ideological and Partisan Voting.
+It’s Time for More Time Series Clustering in Political Science. (Reject and resubmit at Political Analysis)
 
-Nested Economies: Tracking Local Manufacturing Job Loss Trajectories Using Time Series Clustering.
+Not in My Labor Market?: Environmental Regulation, Psychological Proximity, and Fear of Job Losses.
+
+Sunlight and Silicon: The Politics of Green and Digital Infrastructure in an Era of US - China Rivalry.
+
+The partyvoter Package: Simulating and Visualizing Ideological and Partisan Voting
 
 ## Works in Progress
-
-Sunlight and Silicon: The Politics of Green and Digital Infrastructure in an Era of US - China Rivalry
 
 The Racial Geography of Protectionist Sentiment. With Sumner, J. L.
 
 Man Hands on Misery to Man: Family History, Opposition to Globalization, and Enduring Legacies of Deindustrialization. With Sumner, J. L.
 
-The Words of Work: Partisan Differences in How Congress Talks About Jobs.
+<p align="center">
+  <img src="combinedsectors.png"></p>
+  
+<p align="center" /p>\
+
+## Research with Undergraduate Students
+
+During my graduate career, I worked with several undergraduates on two summer projects as part of the Data Science for the Public Good program at UVA's Biocomplexity Institute. As a Visiting Assistant Professor at Carleton, I worked with four students during Summer 2026 on a project studying American cultural and industrial institutions. You can explore the work we did for that project [here (note: website in development - check back in mid-August)]().

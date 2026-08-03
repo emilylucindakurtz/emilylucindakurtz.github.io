@@ -25,10 +25,10 @@ navbar:
   right:
     - #text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:kurtz217@umn.edu                    # CHANGE HERE 
+      href: mailto:ekurtz@carleton.edu                    # CHANGE HERE 
     - #text: "GitHub"
       icon: fa-github
-      href: https://github.umn.edu/kurtz217       # CHANGE HERE
+      href: https://github.com/emilylucindakurtz       # CHANGE HERE
     - #text: "Google Scholar""
       icon: fa-graduation-cap
       href: https://scholar.google.com/citations?user=xzd7KqwAAAAJ&hl=en
