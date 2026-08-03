@@ -10,7 +10,9 @@ title: "Research"
   
 <p align="center">A cool figure from a recent project I have been working on.</p>\
 
+## Research with Undergraduate Students
 
+During my graduate career, I worked with several undergraduates on two summer projects as part of the Data Science for the Public Good program at UVA's Biocomplexity Institute. As a Visiting Assistant Professor at Carleton, I worked with four students during Summer 2026 on a project studying American cultural and industrial institutions. You can explore the work we did for that project [here]((https://sites.google.com/umn.edu/mpmc/home?authuser=0).
 
 
 ## Publications
@@ -36,6 +38,8 @@ The partyvoter Package: Simulating and Visualizing Ideological and Partisan Voti
 Nested Economies: Tracking Local Manufacturing Job Loss Trajectories Using Time Series Clustering.
 
 ## Works in Progress
+
+Sunlight and Silicon: The Politics of Green and Digital Infrastructure in an Era of US - China Rivalry
 
 The Racial Geography of Protectionist Sentiment. With Sumner, J. L.
 
