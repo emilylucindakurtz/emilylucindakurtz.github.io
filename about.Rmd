@@ -47,4 +47,4 @@ Man Hands on Misery to Man: Family History, Opposition to Globalization, and End
 
 ## Research with Undergraduate Students
 
-During my graduate career, I worked with several undergraduates on two summer projects as part of the Data Science for the Public Good program at UVA's Biocomplexity Institute. As a Visiting Assistant Professor at Carleton, I worked with four students during Summer 2026 on a project studying American cultural and industrial institutions. You can explore the work we did for that project [here (note: website in development - check back in mid-August)]().
+During my graduate career, I worked with several undergraduates on two summer projects as part of the Data Science for the Public Good program at UVA's Biocomplexity Institute. As a Visiting Assistant Professor at Carleton, I worked with four students during Summer 2026 on a project studying American cultural and industrial institutions. You can explore the work we did for that project [here (note: website in development - check back in mid-August)](https://CulturalInstitutionsSRP2026.github.io/).
